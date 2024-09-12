@@ -14,6 +14,10 @@ Task week 4:
 
 6. Submit the URL of the uploaded document.
 
+http://127.0.0.1:5000/
+
+
+
    Task Week 5 (used Heroku):
 
 1. Select any toy data (simple data) ( You are allowed to use data set of week 4)
@@ -29,3 +33,6 @@ Task week 4:
 6. Submit the URL of the uploaded document.
 
 Use free credits(trial or student account) of AWS, GCP, Azure to deploy the app.
+
+
+https://git.heroku.com/ancient-fortress-79930.git
